@@ -159,3 +159,4 @@ defmodule Maru.Builder.DSLsTest do
     assert [foo: {:requests, _, _}] = Test.sp()
   end
 end
+ defmodule VersionTest1 do
